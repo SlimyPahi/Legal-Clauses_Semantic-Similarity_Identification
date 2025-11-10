@@ -3,6 +3,8 @@
 ## Overview
 This project implements a deep learning system for detecting similarity between legal clauses using two different neural network architectures: BiLSTM Siamese and Attention Encoder models. The system processes legal text data to classify whether two clauses belong to the same category or not.
 
+The dataset used is Legal Clause Dataset: https://www.kaggle.com/datasets/bahushruth/legalclausedataset
+
 ## Project Structure
 ```
 DL-Assignment2.ipynb - Main Jupyter notebook containing all code
